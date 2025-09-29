@@ -1,5 +1,5 @@
 class MinStack:
-
+#leetcode
     def __init__(self):
         self.stack = []
 
@@ -30,3 +30,4 @@ class MinStack:
 # obj.pop()
 # param_3 = obj.top()
 # param_4 = obj.getMin()
+#leetcode
